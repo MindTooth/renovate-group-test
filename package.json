@@ -1,0 +1,8 @@
+{
+	"dependencies": {
+		"@babel/runtime": "7.21.0",
+		"@babel/standalone": "7.22.0",
+		"@babel/traverse": "7.22.0",
+		"@babel/types": "7.21.0"
+	}
+}
